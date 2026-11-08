@@ -1,0 +1,416 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://instalar-refrigeracao-site.netlify.app/
+Subject: =?utf-8?Q?INSTALAR=20REFRIGERA=C3=87=C3=83O=20|=20Padre=20Marcos=20-=20PI?=
+Date: Sun, 08 Nov 2026 18:24:01 GMT
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--Bh1H6Tsj7hfRQ2gTeX11KAI1foZQVALW98idtMn1t2----"
+
+
+------MultipartBoundary--Bh1H6Tsj7hfRQ2gTeX11KAI1foZQVALW98idtMn1t2----
+Content-Type: text/html
+Content-ID: <frame-CB0636DFBF3A2346512D37E1DD1A7970@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: https://instalar-refrigeracao-site.netlify.app/
+
+<!DOCTYPE html><html lang="pt-BR"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="stylesheet" type="text/css" href="cid:css-b4f30bd8-dcc2-4f63-853a-52440553d00c@mhtml.blink" />
+  
+<!-- This site is hosted on Netlify. Anyone can build and deploy a site
+     like this one for free: https://netlify.new/?utm_campaign=loops&utm_source=ai-legible&utm_medium=owned&utm_content=comment&utm_id=1bbce107-9d03-48e1-bb38-5664ab061715
+     Netlify hosting facts for this site: static/SSR served via Netlify Edge. -->
+<meta property="og:image" content="https://instalar-refrigeracao-site.netlify.app/.netlify/og-image/286110cf7f83b2da75d9c1914cb59e6d.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#071c3d">
+  <meta name="description" content="INSTALAR REFRIGERAÇÃO: instalação, manutenção, limpeza, consertos e venda de ar-condicionado, geladeiras e máquinas de lavar em Padre Marcos-PI e região.">
+  <title>INSTALAR REFRIGERAÇÃO | Padre Marcos - PI</title>
+  
+</head>
+<body>
+<header>
+  <div class="wrap nav">
+    <a class="brand" href="https://instalar-refrigeracao-site.netlify.app/#inicio"><span class="snow">❄</span><span>INSTALAR<br>REFRIGERAÇÃO</span></a>
+    <nav aria-label="Navegação principal">
+      <a href="https://instalar-refrigeracao-site.netlify.app/#servicos">Serviços</a><a href="https://instalar-refrigeracao-site.netlify.app/#vendas">Vendas</a><a href="https://instalar-refrigeracao-site.netlify.app/#catalogo">Produtos</a><a href="https://instalar-refrigeracao-site.netlify.app/#empresa">A empresa</a><a href="https://instalar-refrigeracao-site.netlify.app/#contato">Contato</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+  <section class="hero" id="inicio">
+    <div class="wrap hero-grid">
+      <div>
+        <div class="eyebrow">Padre Marcos – PI e região</div>
+        <h1>Conforto e soluções para seus eletrodomésticos.</h1>
+        <p>Instalação, manutenção, limpeza, consertos e vendas de ar-condicionado, geladeiras e máquinas de lavar.</p>
+        <div class="actions">
+          <a class="btn primary" href="https://wa.me/5589981308614?text=Ol%C3%A1!%20Quero%20solicitar%20um%20or%C3%A7amento." target="_blank" rel="noopener">Solicitar orçamento pelo WhatsApp</a>
+          <a class="btn" href="https://instalar-refrigeracao-site.netlify.app/#servicos">Conhecer serviços</a>
+        </div>
+      </div>
+      <div class="hero-card">
+        <div class="big">❄️</div>
+        <strong>INSTALAR REFRIGERAÇÃO</strong>
+        <span>Atendimento com praticidade e compromisso.</span>
+      </div>
+    </div>
+  </section>
+
+  <section id="servicos">
+    <div class="wrap">
+      <div class="section-head"><h2>Nossos serviços</h2><p>Conte com a gente para cuidar dos seus equipamentos.</p></div>
+      <div class="cards">
+        <article class="card"><div class="ico">❄️</div><h3>Ar-condicionado</h3><p>Instalação, manutenção, limpeza e consertos.</p></article>
+        <article class="card"><div class="ico">🧊</div><h3>Geladeiras</h3><p>Consertos e venda de geladeiras.</p></article>
+        <article class="card"><div class="ico">🫧</div><h3>Máquinas de lavar</h3><p>Consertos e venda de máquinas de lavar roupas.</p></article>
+      </div>
+    </div>
+  </section>
+
+  <section class="sales" id="vendas">
+    <div class="wrap">
+      <div class="section-head"><h2>Também trabalhamos com vendas</h2><p>Consulte disponibilidade, modelos e condições pelo WhatsApp.</p></div>
+      <div class="sales-grid">
+        <div class="sale"><div class="ico">❄️</div><b>Ar-condicionado</b><small>Venda de aparelhos de ar-condicionado.</small></div>
+        <div class="sale"><div class="ico">🧊</div><b>Geladeiras</b><small>Consulte os modelos disponíveis.</small></div>
+        <div class="sale"><div class="ico">🫧</div><b>Máquinas de lavar</b><small>Consulte opções e disponibilidade.</small></div>
+      </div>
+    </div>
+  </section>
+
+
+  <section id="catalogo">
+    <div class="wrap">
+      <div class="section-head">
+        <h2>Produtos disponíveis</h2>
+        <p>Confira nossos produtos e peça o preço diretamente pelo WhatsApp.</p>
+      </div>
+      <div class="products" id="lista-produtos" aria-live="polite"></div>
+      <p class="edit-note" id="status-produtos" style="text-align:center">Novos produtos em breve. Consulte disponibilidade pelo WhatsApp.</p>
+    </div>
+  </section>
+
+  <section id="empresa">
+    <div class="wrap about">
+      <div>
+        <div class="eyebrow" style="color:#1677d2">Quem somos</div>
+        <h2 style="color:#071c3d;font-size:32px">INSTALAR REFRIGERAÇÃO</h2>
+        <p>Uma empresa de serviços e vendas na área de refrigeração e eletrodomésticos, atendendo Padre Marcos–PI e região.</p>
+        <p>Fale conosco para tirar dúvidas, consultar disponibilidade ou solicitar um orçamento.</p>
+      </div>
+      <div class="about-box">
+        <h2>Precisa de ajuda?</h2>
+        <p>Entre em contato e explique o que você precisa. Vamos conversar sobre o melhor atendimento para seu equipamento.</p>
+        <a class="btn primary" href="https://wa.me/5589981308614?text=Ol%C3%A1!%20Gostaria%20de%20informa%C3%A7%C3%B5es." target="_blank" rel="noopener">Falar com a empresa</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="contact" id="contato">
+    <div class="wrap">
+      <h2>Solicite seu orçamento</h2>
+      <p>Atendimento pelo WhatsApp: (89) 98130-8614</p>
+      <a class="btn primary" href="https://wa.me/5589981308614?text=Ol%C3%A1!%20Vim%20pelo%20site%20da%20INSTALAR%20REFRIGERA%C3%87%C3%83O." target="_blank" rel="noopener">Chamar no WhatsApp</a>
+    </div>
+  </section>
+</main>
+<footer><div class="wrap">© <span id="year">2026</span> INSTALAR REFRIGERAÇÃO · Padre Marcos – PI · <a href="https://instalar-refrigeracao-site.netlify.app/admin" style="opacity:.6">Área restrita</a></div></footer>
+<a class="float" href="https://wa.me/5589981308614?text=Ol%C3%A1!%20Quero%20atendimento." target="_blank" rel="noopener" aria-label="Atendimento pelo WhatsApp">WhatsApp</a>
+
+
+
+
+
+
+
+<iframe id="nl-badge-frame" title="Powered by Netlify" src="cid:frame-D4B4B58B77533184FCEE033EEAA976BF@mhtml.blink" style="position: fixed; bottom: 0px; right: 0px; border: 0px; margin: 0px; padding: 0px; background: transparent; color-scheme: dark; z-index: 2147483645; width: 0px; height: 0px; clip-path: path(&quot;M 0 0 H -13 V -13 H 0 Z&quot;);" data-nl-ready="1"></iframe></body></html>
+------MultipartBoundary--Bh1H6Tsj7hfRQ2gTeX11KAI1foZQVALW98idtMn1t2----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-b4f30bd8-dcc2-4f63-853a-52440553d00c@mhtml.blink
+
+@charset "utf-8";
+
+:root { --navy: #071c3d; --blue: #1677d2; --ice: #eaf6ff; --text: #17263b; --muted: #607086; --white: #fff; }
+
+* { box-sizing: border-box; }
+
+html { scroll-behavior: smooth; }
+
+body { margin: 0px; font-family: Arial, Helvetica, sans-serif; color: var(--text); background: rgb(247, 251, 255); line-height: 1.55; }
+
+a { color: inherit; text-decoration: none; }
+
+.wrap { width: min(1100px, 92%); margin: auto; }
+
+header { background: var(--navy); color: white; position: sticky; top: 0px; z-index: 10; box-shadow: rgba(0, 19, 43, 0.19) 0px 4px 18px; }
+
+.nav { min-height: 70px; display: flex; align-items: center; justify-content: space-between; gap: 16px; }
+
+.brand { display: flex; align-items: center; gap: 10px; font-weight: 800; letter-spacing: 0.4px; }
+
+.snow { font-size: 30px; color: rgb(117, 202, 255); }
+
+nav { display: flex; gap: 22px; font-size: 14px; }
+
+nav a { color: rgb(232, 244, 255); }
+
+.hero { background: linear-gradient(125deg, rgb(7, 28, 61) 0%, rgb(11, 57, 112) 62%, rgb(22, 119, 210) 100%); color: white; padding: 76px 0px 82px; overflow: hidden; }
+
+.hero-grid { display: grid; grid-template-columns: 1.25fr 0.75fr; align-items: center; gap: 35px; }
+
+.eyebrow { color: rgb(155, 216, 255); font-weight: 700; text-transform: uppercase; letter-spacing: 1.6px; font-size: 12px; }
+
+h1 { font-size: clamp(34px, 5vw, 56px); line-height: 1.08; margin: 12px 0px 18px; }
+
+.hero p { max-width: 570px; color: rgb(224, 239, 255); font-size: 18px; }
+
+.actions { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 25px; }
+
+.btn { display: inline-flex; align-items: center; justify-content: center; padding: 13px 19px; border-radius: 10px; font-weight: 700; background: rgb(255, 255, 255); color: var(--navy); }
+
+.btn.primary { background: rgb(32, 200, 117); color: rgb(5, 43, 27); }
+
+.hero-card { background: rgba(255, 255, 255, 0.08); border: 1px solid rgba(255, 255, 255, 0.208); border-radius: 22px; padding: 26px; text-align: center; backdrop-filter: blur(4px); }
+
+.hero-card .big { font-size: 76px; }
+
+.hero-card strong { display: block; font-size: 20px; margin-top: 6px; }
+
+.hero-card span { color: rgb(216, 235, 255); font-size: 14px; }
+
+section { padding: 64px 0px; }
+
+.section-head { text-align: center; margin-bottom: 30px; }
+
+.section-head h2 { font-size: clamp(26px, 4vw, 36px); color: var(--navy); margin: 0px 0px 8px; }
+
+.section-head p { margin: 0px; color: var(--muted); }
+
+.cards { display: grid; grid-template-columns: repeat(3, 1fr); gap: 18px; }
+
+.card { background: white; border: 1px solid rgb(225, 237, 247); border-radius: 16px; padding: 23px; box-shadow: rgba(11, 57, 112, 0.04) 0px 8px 25px; }
+
+.card .ico { font-size: 34px; }
+
+.card h3 { margin: 10px 0px 7px; color: var(--navy); }
+
+.card p { margin: 0px; color: var(--muted); font-size: 14px; }
+
+.sales { background: var(--ice); }
+
+.sales-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; }
+
+.sale { background: rgb(255, 255, 255); border-radius: 16px; padding: 22px; border: 1px solid rgb(216, 234, 250); }
+
+.sale b { display: block; color: var(--navy); font-size: 18px; margin: 7px 0px; }
+
+.sale small { color: var(--muted); }
+
+.about { display: grid; grid-template-columns: 1fr 1fr; gap: 30px; align-items: center; }
+
+.about-box { background: var(--navy); color: white; border-radius: 20px; padding: 30px; }
+
+.about-box h2 { margin-top: 0px; }
+
+.about-box p { color: rgb(216, 232, 248); }
+
+.contact { background: var(--navy); color: white; text-align: center; }
+
+.contact h2 { font-size: clamp(27px, 4vw, 38px); margin: 0px 0px 10px; }
+
+.contact p { color: rgb(217, 233, 250); }
+
+.contact .btn { margin-top: 12px; }
+
+footer { background: rgb(4, 19, 41); color: rgb(185, 203, 224); padding: 20px 0px; text-align: center; font-size: 13px; }
+
+.float { position: fixed; right: 18px; bottom: 18px; background: rgb(32, 200, 117); color: rgb(6, 43, 27); padding: 13px 17px; border-radius: 999px; font-weight: 800; box-shadow: rgba(0, 21, 44, 0.25) 0px 6px 20px; z-index: 20; }
+
+.products { display: grid; grid-template-columns: repeat(3, 1fr); gap: 18px; }
+
+.product-card { background: rgb(255, 255, 255); border: 1px solid rgb(216, 234, 250); border-radius: 16px; padding: 16px; box-shadow: rgba(11, 57, 112, 0.04) 0px 8px 25px; }
+
+.product-photo { width: 100%; aspect-ratio: 4 / 3; border: 1px solid rgb(216, 234, 250); border-radius: 12px; background: rgb(242, 248, 253); display: flex; align-items: center; justify-content: center; overflow: hidden; color: rgb(96, 112, 134); text-align: center; position: relative; }
+
+.product-photo img { width: 100%; height: 100%; object-fit: contain; display: none; }
+
+.product-photo.has-image img { display: block; }
+
+.product-photo.has-image .photo-placeholder { display: none; }
+
+.photo-placeholder { padding: 14px; }
+
+.photo-placeholder strong { display: block; color: rgb(11, 57, 112); margin-bottom: 5px; }
+
+.product-title { margin: 12px 0px 4px; color: var(--navy); font-size: 18px; }
+
+.product-desc { margin: 0px 0px 8px; color: var(--muted); font-size: 14px; white-space: pre-line; }
+
+.product-price { font-weight: 800; color: rgb(11, 57, 112); font-size: 20px; margin: 4px 0px 10px; }
+
+.products { align-items: stretch; }
+
+.product-card { display: flex; flex-direction: column; }
+
+.product-card .price-btn { margin-top: auto; }
+
+.price-btn { display: flex; width: 100%; justify-content: center; background: rgb(32, 200, 117); color: rgb(5, 43, 27); padding: 12px; border-radius: 9px; font-weight: 800; text-align: center; }
+
+.edit-note { font-size: 12px; color: rgb(96, 112, 134); margin-top: 12px; }
+
+@media (max-width: 760px) {
+  .nav { min-height: 64px; }
+  nav { display: none; }
+  .hero { padding: 55px 0px 60px; }
+  .hero-grid, .about { grid-template-columns: 1fr; }
+  .hero-card { max-width: 360px; margin: auto; }
+  .cards, .sales-grid { grid-template-columns: 1fr; }
+  .products { grid-template-columns: 1fr 1fr; gap: 12px; }
+  .product-card { padding: 12px; }
+  .product-title { font-size: 15px; }
+  .product-price { font-size: 17px; }
+  .price-btn { padding: 10px; font-size: 13px; }
+  section { padding: 48px 0px; }
+  .hero p { font-size: 16px; }
+  .btn { width: 100%; }
+  .float { right: 12px; bottom: 12px; }
+}
+
+@media (max-width: 420px) {
+  .products { grid-template-columns: 1fr; }
+}
+------MultipartBoundary--Bh1H6Tsj7hfRQ2gTeX11KAI1foZQVALW98idtMn1t2----
+Content-Type: text/html
+Content-ID: <frame-D4B4B58B77533184FCEE033EEAA976BF@mhtml.blink>
+Content-Transfer-Encoding: binary
+
+<!DOCTYPE html><html class="nl-narrow" style="--nl-vw: 0px; --nl-vh: 0px;"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="stylesheet" type="text/css" href="cid:css-0c883764-f61a-4747-ad4d-d9da1be1f782@mhtml.blink" /><meta name="color-scheme" content="dark"></head><body>
+      <div class="nl-wrap">
+        <section class="nl-card" id="nl-card" aria-label="Build your own site on Netlify">
+          <button type="button" class="nl-icon-btn nl-tap nl-card-close" id="nl-card-close" aria-label="Close"><svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" aria-hidden="true"><path d="M4.5 4.5 11.5 11.5M11.5 4.5 4.5 11.5"></path></svg></button>
+          <h2><em>Build your own site with Netlify</em></h2>
+          <p>Describe what you want, and an AI agent designs, builds and deploys it in minutes.</p>
+          <form class="nl-prompt" action="https://app.netlify.com/start" method="get" target="_blank" rel="noopener">
+            <textarea name="prompt" rows="2" required="" maxlength="300" autocomplete="off" enterkeyhint="go" placeholder="A shop for my handmade surfboards…" aria-label="Describe the site you want to build"></textarea>
+            <button type="submit" class="nl-send nl-tap" aria-label="Build this site"><svg width="13" height="13" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M8 12.75v-9.5M3.9 7.35 8 3.25l4.1 4.1"></path></svg></button>
+            
+            
+            
+            
+            
+            
+          </form>
+          <div class="nl-or"><span>or</span></div>
+          <a class="nl-drop" href="https://app.netlify.com/drop?utm_source=netlify_badge&amp;utm_campaign=loops&amp;utm_medium=owned&amp;utm_content=drop&amp;utm_id=1bbce107-9d03-48e1-bb38-5664ab061715" target="_blank" rel="noopener">
+            <span>Drop a site you already have</span><span class="nl-arrow" aria-hidden="true">→</span>
+          </a>
+          
+        </section>
+        <button type="button" class="nl-badge" id="nl-badge" aria-expanded="false" aria-controls="nl-card" aria-label="Powered by Netlify — build your own site">
+          <svg width="18" height="18" viewBox="0 0 32 32" fill="none" aria-hidden="true">
+    <path fill="#fff" d="M17.9922 18.3225H14.005L13.6746 17.9921V14.005L14.005 13.6746H17.9922L18.3226 14.005V17.9921L17.9922 18.3225Z"></path>
+    <g fill="#05BDBA">
+      <path d="M9.6958 24.3311H9.35705L7.6661 22.6401V22.3041L10.2511 19.7164L12.042 19.7191L12.2808 19.9552V21.7461L9.6958 24.3311Z"></path>
+      <path d="M7.6661 9.69576V9.35701L9.35705 7.66606H9.6958L12.2808 10.2511V12.0392L12.042 12.2808H10.2511L7.6661 9.69576Z"></path>
+      <path d="M10.0457 17.4369H0.205466L0 17.2314V14.7658L0.205466 14.5603H10.0457L10.2511 14.7658V17.2314L10.0457 17.4369Z"></path>
+      <path d="M31.7945 17.4369H21.9544L21.7489 17.2314V14.7658L21.9544 14.5603H31.7945L32 14.7658V17.2314L31.7945 17.4369Z"></path>
+      <path d="M14.5631 10.0456V2.66547L14.7686 2.46001H17.2343L17.4396 2.66547V10.0456L17.2343 10.2511H14.7686L14.5631 10.0456Z"></path>
+      <path d="M14.5631 29.3316V21.9515L14.7686 21.746H17.2343L17.4396 21.9515V29.3316L17.2343 29.5371H14.7686L14.5631 29.3316Z"></path>
+    </g></svg>
+          <span><span class="nl-badge-label">Powered by</span> <span class="nl-badge-brand">Netlify</span></span>
+        </button>
+      </div>
+      
+    </body></html>
+------MultipartBoundary--Bh1H6Tsj7hfRQ2gTeX11KAI1foZQVALW98idtMn1t2----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-0c883764-f61a-4747-ad4d-d9da1be1f782@mhtml.blink
+
+@charset "utf-8";
+
+:root { --nl-vw: 0px; --nl-vh: 0px; }
+
+* { box-sizing: border-box; }
+
+html, body { margin: 0px; padding: 0px; background: transparent; overflow: hidden; }
+
+body { display: flex; align-items: flex-end; justify-content: flex-end; height: 100vh; padding: 8px 18px 18px 8px; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-size: 14px; line-height: 1.5; color: rgb(244, 249, 249); -webkit-font-smoothing: antialiased; }
+
+.nl-wrap { display: flex; flex-direction: column; align-items: flex-end; gap: 10px; width: max-content; max-width: calc(var(--nl-vw,100vw) - 26px); }
+
+button { font-family: inherit; cursor: pointer; }
+
+:focus-visible { outline: rgb(50, 230, 226) solid 2px; outline-offset: 2px; border-radius: 6px; }
+
+.nl-icon-btn { position: relative; flex: 0 0 auto; width: 30px; height: 30px; display: inline-flex; align-items: center; justify-content: center; border-radius: 8px; border: 1px solid transparent; background: transparent; color: rgb(213, 227, 230); transition: background 0.15s, color 0.15s; }
+
+.nl-icon-btn:hover { background: rgba(255, 255, 255, 0.08); color: rgb(244, 249, 249); }
+
+.nl-tap::after { content: ""; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: max(100%, 44px); height: max(100%, 44px); }
+
+@keyframes nl-rise { 
+  0% { opacity: 0; transform: translateY(10px) scale(0.97); }
+  100% { opacity: 1; transform: none; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * { animation-duration: 0.01ms !important; transition: none !important; }
+}
+
+.nl-card { position: relative; display: none; width: min(340px,calc(var(--nl-vw,100vw) - 26px)); max-height: calc(var(--nl-vh,100vh) - 84px); overflow-y: auto; background: linear-gradient(rgb(19, 40, 50) 0%, rgb(14, 30, 37) 100%); border: 1px solid rgba(255, 255, 255, 0.09); border-radius: 18px; padding: 18px; transform-origin: right bottom; animation: 0.3s cubic-bezier(0.34, 1.4, 0.4, 1) 0s 1 normal both running nl-rise; }
+
+.nl-card.open { display: block; }
+
+.nl-card-close { position: absolute; top: 10px; right: 10px; }
+
+.nl-card h2 { margin: 0px; padding-right: 30px; font-size: 16px; font-weight: 750; letter-spacing: -0.015em; line-height: 1.35; }
+
+.nl-card h2 em { font-style: normal; background: linear-gradient(90deg, rgb(50, 230, 226), rgb(77, 124, 254), rgb(154, 107, 255)) text; -webkit-text-fill-color: transparent; color: transparent; }
+
+.nl-card p { margin: 8px 0px 0px; font-size: 12.5px; color: rgb(213, 227, 230); }
+
+.nl-prompt { position: relative; margin-top: 14px; background: rgb(16, 34, 43); border: 1px solid rgba(255, 255, 255, 0.09); border-radius: 14px; padding: 10px 12px; transition: border-color 0.15s, box-shadow 0.15s; }
+
+.nl-prompt:focus-within { border-color: rgb(5, 189, 186); box-shadow: rgba(5, 189, 186, 0.18) 0px 0px 0px 3px; }
+
+.nl-prompt textarea { display: block; width: 100%; height: 38px; resize: none; border: 0px; outline: none; background: transparent; color: rgb(244, 249, 249); font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-family: inherit; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; font-language-override: inherit; font-size: 13px; line-height: 19px; padding: 0px 28px 0px 0px; }
+
+.nl-prompt textarea::placeholder { color: rgb(169, 189, 194); }
+
+.nl-send { position: absolute; right: 9px; bottom: 9px; width: 24px; height: 24px; flex: 0 0 auto; display: inline-flex; align-items: center; justify-content: center; border: 0px; border-radius: 50%; background: rgb(5, 189, 186); color: rgb(2, 25, 27); transition: background 0.15s; }
+
+.nl-send:hover { background: rgb(50, 230, 226); }
+
+@media (pointer: coarse) {
+  .nl-prompt textarea { font-size: 16px; line-height: 21px; height: 42px; }
+}
+
+.nl-or { display: flex; align-items: center; gap: 10px; margin: 12px 0px; font-size: 10.5px; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: rgb(169, 189, 194); }
+
+.nl-or::before, .nl-or::after { content: ""; flex: 1 1 0%; height: 1px; background: rgba(255, 255, 255, 0.09); }
+
+.nl-drop { display: flex; align-items: center; justify-content: space-between; gap: 6px; text-decoration: none; background: rgb(27, 58, 69); border: 1px solid rgba(255, 255, 255, 0.09); border-radius: 10px; padding: 10px 12px; font-size: 13px; font-weight: 600; color: rgb(207, 224, 227); transition: background 0.15s, color 0.15s, border-color 0.15s; }
+
+.nl-drop:hover { background: rgb(34, 71, 83); color: rgb(244, 249, 249); border-color: rgba(50, 230, 226, 0.3); }
+
+.nl-drop .nl-arrow { transition: transform 0.18s cubic-bezier(0.34, 1.4, 0.4, 1); }
+
+.nl-drop:hover .nl-arrow { transform: translateX(3px); }
+
+.nl-badge { display: flex; align-items: center; gap: 9px; white-space: nowrap; border: 1px solid rgba(255, 255, 255, 0.09); background: linear-gradient(rgb(20, 43, 52), rgb(14, 30, 37)); color: rgb(244, 249, 249); border-radius: 999px; padding: 9px 14px 9px 11px; font-size: 13px; font-weight: 600; letter-spacing: 0.01em; transition: border-color 0.2s; }
+
+.nl-badge:hover { border-color: rgba(50, 230, 226, 0.26); }
+
+.nl-hide { display: block; width: 100%; margin-top: 10px; border: 0px; background: transparent; color: rgb(169, 189, 194); font-size: 11.5px; font-weight: 600; padding: 4px; border-radius: 8px; transition: color 0.15s; }
+
+.nl-hide:hover { color: rgb(213, 227, 230); text-decoration: underline; }
+
+.nl-badge-label { color: rgb(213, 227, 230); font-weight: 500; }
+
+.nl-badge-brand { font-weight: 750; }
+------MultipartBoundary--Bh1H6Tsj7hfRQ2gTeX11KAI1foZQVALW98idtMn1t2------
